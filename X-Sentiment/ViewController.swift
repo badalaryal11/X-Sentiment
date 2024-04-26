@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     
     @IBOutlet weak var backgroundView: UIView!
-        
+    
     @IBOutlet weak var textField: UITextField!
     
     @IBOutlet weak var sentimentLabel: UILabel!
@@ -22,5 +22,7 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func predictPressed(_ sender: Any) {
+    }
 }
 

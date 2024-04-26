@@ -46,7 +46,7 @@
                                                     <color key="titleColor" red="0.15686274510000001" green="0.66666666669999997" blue="0.75294117650000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
                                                 <connections>
-                                                    <action selector="predictPressed:" destination="7Lb-AF-Sfu" eventType="touchUpInside" id="3O8-Kw-NWj"/>
+                                                    <action selector="predictPressed:" destination="7Lb-AF-Sfu" eventType="touchUpInside" id="eXD-wK-R7j"/>
                                                 </connections>
                                             </button>
                                         </subviews>

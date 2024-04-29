@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     }
 
 
-    @IBAction func predictPressed(_ sender: Any) {
+    @IBAction func predictPressed(_ sender: UIButton!) {
     }
 }
 
